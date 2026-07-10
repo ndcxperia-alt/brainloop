@@ -1,2 +1,3 @@
-# brainloop
-BrainLoop — brain dump persistente con perfil, calendario e historial.
+# BrainLoop
+
+Brain dump persistente con perfil, calendario e historial.
